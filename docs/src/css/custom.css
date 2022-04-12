@@ -1,3 +1,4 @@
+
 /* stylelint-disable docusaurus/copyright-header */
 /**
  * Any CSS included here will be global. The classic template
@@ -23,9 +24,6 @@
   --ifm-footer-background-color: #232323;
 }
 
-
-
-
 @keyframes fadeInUp {
   0% { opacity: 0; transform: translateY(1.5rem); }
 }
@@ -50,7 +48,6 @@ main {
   transition-duration: 200ms;
   box-shadow: 0 8px 28px 4px rgba(86,91,115,0.15);
 }
-
 
 .card a {
   text-decoration: none;
